@@ -20,11 +20,11 @@ Excel
 sql
 
 ## Key Insights
-• Majority of projects fall under successful category  
-• Medium goal range projects show higher success rate  
-• Product Design and Technology categories perform strongly  
-• Revenue trends show peak performance during growth years  
-• Backer contribution significantly influences project success
+• Majority of projects fall under successful category, indicating strong market demand  
+• Medium goal range projects show higher success probability  
+• Product Design and Technology categories demonstrate strong performance  
+• Revenue trend shows peak performance during growth years  
+• Backer contribution significantly influences project success rate
 
 ## Dashboard Features
 • KPI cards (Total amount raised, total backers)
@@ -35,12 +35,13 @@ sql
 • Goal range performance insights
 
 ## Skills Demonstrated
-Power BI Dashboard Development  
-Data Visualization  
-Business Insight Generation  
-KPI Metrics Design  
-Trend Analysis  
-Data Interpretation  
+• Power BI Dashboard Development  
+• Data Cleaning and Transformation  
+• KPI Metrics Design  
+• Business Insight Generation  
+• Trend Analysis  
+• Data Visualization  
+• Analytical Thinking  
 
 ## Business Impact
 The insights help stakeholders understand customer contribution patterns and revenue trends. This supports better decision-making for project planning, goal setting, and revenue optimization.
